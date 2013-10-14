@@ -1,0 +1,9 @@
+L1PixelTrigger
+==============
+
+Full simulation with CMSSW_61X using UpgFall13 samples
+ 
+ssh lxplus5
+cmsrel CMSSW_6_1_2_SLHC6_patch1
+cd CMSSW_6_1_2_SLHC6_patch1/src
+cmsenv
