@@ -7,3 +7,4 @@ ssh lxplus5
 cmsrel CMSSW_6_1_2_SLHC6_patch1
 cd CMSSW_6_1_2_SLHC6_patch1/src
 cmsenv
+SingleEle_DIGI_cff.py
